@@ -1,5 +1,9 @@
 # Incremental Web Data Extraction Tool
 
+This application was for built for personal purposes, to extract the pages from a website "incrementally" i.e. any new pages or identify/extract new web pages.
+
+Backgroun and more details of the application is available in the below Medium article.
+
 https://medium.com/@satish.vt/incremental-web-data-extraction-with-an-intentional-complex-architecture-to-learn-experiment-622696c09ba3
 
 
